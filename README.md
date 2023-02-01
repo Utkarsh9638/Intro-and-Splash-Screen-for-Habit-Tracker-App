@@ -1,4 +1,4 @@
-# InroScreen
+# IntroScreen
 
 A new Flutter project.
 
